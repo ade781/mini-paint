@@ -1,0 +1,29 @@
+Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+Tkinter specific
+Jika ada file temporer yang dihasilkan Tkinter, tambahkan di sini (jarang terjadi)
+IDE-specific files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+*.iml
+
+OS generated files
+.DS_Store
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+Output directory (untuk gambar yang disimpan)
+output/
